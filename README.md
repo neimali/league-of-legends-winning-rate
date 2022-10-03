@@ -34,7 +34,7 @@
 + Remove **redKills, redDeaths, redFirstBlood** due to the high multicolinearity
 
 ## Model
-I tried two models Logistical regression and XGboost Random Forest. To comprehensively evaluate the models I used marco recall and ROR curve(AUC).
+I tried two models Logistical regression and XGboost Random Forest. To comprehensively evaluate the models I used marco recall and ROC curve(AUC).
 
 ### I tried two models:
 + **Logistical Regression with selected features** : Baseline model recall=0.72, AUC=0.81
