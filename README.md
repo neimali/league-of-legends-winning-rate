@@ -26,8 +26,8 @@
 
 #### some pictures of EDA
 
-![alt text](https://github.com/neimali/league-of-legends-winning-rate/blob/main/pictures/heatmap_all.png, "heatmap_all")
-![alt text](https://github.com/neimali/league-of-legends-winning-rate/blob/main/pictures/assists.png, "assists_distribution")
+![alt text](https://github.com/neimali/league-of-legends-winning-rate/blob/main/pictures/heatmap_select.png?raw=true)
+![alt text](https://github.com/neimali/league-of-legends-winning-rate/blob/main/pictures/assists.png?raw=true)
 
 + **TotalGold, AvgLevel, TotalExperience, GoldDiff, ExperienceDiff, CSPerMin** were firstly removed because they are not independent feature or they are liner combination of other features
 
