@@ -1,8 +1,8 @@
 # League of Legends winning rate: Project Overview
-+ Created a tool to predict the match result to help League of Legends coaches and players develop strategies
++ Utilized machine learning techniques to help League of Legends coaches and players develop strategies
 + Performed EDA to check the relationship between features and matches results and select features for futher analysis and prediction
 + optimized a Logistical Regression model and a XGboost Random Forest model using gridsearchCV to get the best estimator
-+ Ultilizing the coefficient and feature importance of trained models to quantify and analyze the influence of each element on match result
++ Used the coefficient and feature importance of trained models to quantify and analyze the influence of each element on match result
 + Provide suggestions according to the analysis
 
 ## Resources Used
